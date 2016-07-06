@@ -1,5 +1,4 @@
 ##IRDM Group Project -- Global Energy Forecasting Competition 2012: Load Forecasting
-Group Members: RUIJIE TU, DONG SUN, YIQUN ZHANG
 
 ###src Directory:
     all code are in root directory(python and R)
